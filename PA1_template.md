@@ -1,5 +1,5 @@
 Reproducible Research: Peer Assessment 1
-rauf khan
+Rauf Khan
 Loading and preprocessing the data
 #Unzip and load data as CSV
 data <- read.csv(unzip("activity.zip", "activity.csv"))
